@@ -1,77 +1,79 @@
-Epoch: 01 | Epoch Time: 1m 34s
+Epoch: 01 | Epoch Time: 3m 20s
 Learning Rate: 5e-05
-	Train Loss: 0.856 | Train Acc: 0.69% | Train F1 Mac: 23.66% | Train F1 Mic: 68.35%
-	 Val. Loss: 0.646 |  Val. Acc: 0.78% |  Val. F1 Mac: 29.14% |  Val. F1 Mic: 77.65%
+	Train Loss: 7.079 | Train Acc: 79.05% | Train F1 Mac: 33.28% | Train F1 Mic: 79.09%
+	 Val. Loss: 4.125 |  Val. Acc: 87.41% |  Val. F1 Mac: 55.69% |  Val. F1 Mic: 87.34%
 
-Epoch: 02 | Epoch Time: 1m 13s
+Epoch: 02 | Epoch Time: 3m 6s
 Learning Rate: 5e-05
-	Train Loss: 0.622 | Train Acc: 0.77% | Train F1 Mac: 34.76% | Train F1 Mic: 77.15%
-	 Val. Loss: 0.474 |  Val. Acc: 0.81% |  Val. F1 Mac: 43.61% |  Val. F1 Mic: 81.14%
+	Train Loss: 3.366 | Train Acc: 90.25% | Train F1 Mac: 74.85% | Train F1 Mic: 90.20%
+	 Val. Loss: 2.668 |  Val. Acc: 92.75% |  Val. F1 Mac: 85.18% |  Val. F1 Mic: 92.67%
 
-Epoch: 03 | Epoch Time: 1m 12s
+Epoch: 03 | Epoch Time: 3m 6s
 Learning Rate: 5e-05
-	Train Loss: 0.427 | Train Acc: 0.83% | Train F1 Mac: 53.95% | Train F1 Mic: 82.63%
-	 Val. Loss: 0.320 |  Val. Acc: 0.87% |  Val. F1 Mac: 72.27% |  Val. F1 Mic: 87.42%
+	Train Loss: 2.054 | Train Acc: 94.51% | Train F1 Mac: 88.48% | Train F1 Mic: 94.52%
+	 Val. Loss: 2.406 |  Val. Acc: 93.48% |  Val. F1 Mac: 86.44% |  Val. F1 Mic: 93.39%
 
-Epoch: 04 | Epoch Time: 0m 43s
+Epoch: 04 | Epoch Time: 3m 6s
 Learning Rate: 5e-05
-	Train Loss: 0.284 | Train Acc: 0.89% | Train F1 Mac: 76.42% | Train F1 Mic: 88.91%
-	 Val. Loss: 0.236 |  Val. Acc: 0.91% |  Val. F1 Mac: 82.32% |  Val. F1 Mic: 91.30%
+	Train Loss: 1.480 | Train Acc: 96.00% | Train F1 Mac: 91.42% | Train F1 Mic: 95.99%
+	 Val. Loss: 2.489 |  Val. Acc: 93.58% |  Val. F1 Mac: 86.43% |  Val. F1 Mic: 93.33%
 
-Epoch: 05 | Epoch Time: 0m 42s
-Learning Rate: 5e-05
-	Train Loss: 0.215 | Train Acc: 0.92% | Train F1 Mac: 83.75% | Train F1 Mic: 92.07%
-	 Val. Loss: 0.218 |  Val. Acc: 0.92% |  Val. F1 Mac: 83.92% |  Val. F1 Mic: 91.68%
-
-Epoch: 06 | Epoch Time: 0m 42s
+Epoch: 05 | Epoch Time: 3m 6s
 Learning Rate: 3.5e-05
-	Train Loss: 0.174 | Train Acc: 0.94% | Train F1 Mac: 87.28% | Train F1 Mic: 93.72%
-	 Val. Loss: 0.237 |  Val. Acc: 0.91% |  Val. F1 Mac: 83.93% |  Val. F1 Mic: 91.09%
+	Train Loss: 1.074 | Train Acc: 97.32% | Train F1 Mac: 94.10% | Train F1 Mic: 97.31%
+	 Val. Loss: 2.684 |  Val. Acc: 93.61% |  Val. F1 Mac: 86.92% |  Val. F1 Mic: 93.40%
 
-Epoch: 07 | Epoch Time: 0m 42s
-Learning Rate: 3.5e-05
-	Train Loss: 0.144 | Train Acc: 0.95% | Train F1 Mac: 89.41% | Train F1 Mic: 94.88%
-	 Val. Loss: 0.196 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.59% |  Val. F1 Mic: 93.25%
-
-Epoch: 08 | Epoch Time: 0m 42s
+Epoch: 06 | Epoch Time: 3m 6s
 Learning Rate: 2.4499999999999996e-05
-	Train Loss: 0.124 | Train Acc: 0.96% | Train F1 Mac: 90.92% | Train F1 Mic: 95.72%
-	 Val. Loss: 0.202 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.56% |  Val. F1 Mic: 93.33%
+	Train Loss: 0.804 | Train Acc: 98.12% | Train F1 Mac: 95.79% | Train F1 Mic: 98.13%
+	 Val. Loss: 2.829 |  Val. Acc: 93.62% |  Val. F1 Mac: 87.02% |  Val. F1 Mic: 93.50%
 
-Epoch: 09 | Epoch Time: 0m 42s
+Epoch: 07 | Epoch Time: 3m 6s
 Learning Rate: 1.7149999999999997e-05
-	Train Loss: 0.108 | Train Acc: 0.96% | Train F1 Mac: 92.06% | Train F1 Mic: 96.32%
-	 Val. Loss: 0.208 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.68% |  Val. F1 Mic: 93.22%
+	Train Loss: 0.664 | Train Acc: 98.48% | Train F1 Mac: 96.63% | Train F1 Mic: 98.50%
+	 Val. Loss: 2.944 |  Val. Acc: 92.78% |  Val. F1 Mac: 87.25% |  Val. F1 Mic: 93.58%
 
-Epoch: 10 | Epoch Time: 0m 42s
+Epoch: 08 | Epoch Time: 3m 6s
 Learning Rate: 1.2004999999999998e-05
-	Train Loss: 0.096 | Train Acc: 0.97% | Train F1 Mac: 93.17% | Train F1 Mic: 96.84%
-	 Val. Loss: 0.224 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.46% |  Val. F1 Mic: 93.10%
+	Train Loss: 0.580 | Train Acc: 98.67% | Train F1 Mac: 97.04% | Train F1 Mic: 98.67%
+	 Val. Loss: 2.932 |  Val. Acc: 93.88% |  Val. F1 Mac: 87.29% |  Val. F1 Mic: 93.64%
 
-Epoch: 11 | Epoch Time: 1m 8s
+Epoch: 09 | Epoch Time: 3m 6s
 Learning Rate: 8.403499999999998e-06
-	Train Loss: 0.089 | Train Acc: 0.97% | Train F1 Mac: 93.62% | Train F1 Mic: 97.11%
-	 Val. Loss: 0.226 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.51% |  Val. F1 Mic: 93.03%
+	Train Loss: 0.528 | Train Acc: 98.74% | Train F1 Mac: 97.19% | Train F1 Mic: 98.74%
+	 Val. Loss: 3.065 |  Val. Acc: 93.54% |  Val. F1 Mac: 86.93% |  Val. F1 Mic: 93.55%
 
-Epoch: 12 | Epoch Time: 1m 19s
+Epoch: 10 | Epoch Time: 3m 6s
 Learning Rate: 5.882449999999998e-06
-	Train Loss: 0.083 | Train Acc: 0.97% | Train F1 Mac: 93.96% | Train F1 Mic: 97.26%
-	 Val. Loss: 0.221 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.69% |  Val. F1 Mic: 93.32%
+	Train Loss: 0.488 | Train Acc: 98.90% | Train F1 Mac: 97.55% | Train F1 Mic: 98.89%
+	 Val. Loss: 3.077 |  Val. Acc: 93.74% |  Val. F1 Mac: 86.99% |  Val. F1 Mic: 93.55%
 
-Epoch: 13 | Epoch Time: 1m 15s
+Epoch: 11 | Epoch Time: 3m 6s
 Learning Rate: 4.117714999999998e-06
-	Train Loss: 0.083 | Train Acc: 0.97% | Train F1 Mac: 94.20% | Train F1 Mic: 97.38%
-	 Val. Loss: 0.229 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.69% |  Val. F1 Mic: 93.30%
+	Train Loss: 0.452 | Train Acc: 98.87% | Train F1 Mac: 97.55% | Train F1 Mic: 98.89%
+	 Val. Loss: 3.126 |  Val. Acc: 93.70% |  Val. F1 Mac: 86.98% |  Val. F1 Mic: 93.52%
 
-Epoch: 14 | Epoch Time: 1m 17s
+Epoch: 12 | Epoch Time: 3m 7s
 Learning Rate: 2.8824004999999986e-06
-	Train Loss: 0.083 | Train Acc: 0.97% | Train F1 Mac: 94.07% | Train F1 Mic: 97.33%
-	 Val. Loss: 0.228 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.76% |  Val. F1 Mic: 93.34%
+	Train Loss: 0.450 | Train Acc: 98.95% | Train F1 Mac: 97.71% | Train F1 Mic: 98.97%
+	 Val. Loss: 3.171 |  Val. Acc: 92.97% |  Val. F1 Mac: 86.89% |  Val. F1 Mic: 93.45%
 
-Epoch: 15 | Epoch Time: 1m 16s
+Epoch: 13 | Epoch Time: 3m 7s
 Learning Rate: 2.017680349999999e-06
-	Train Loss: 0.081 | Train Acc: 0.97% | Train F1 Mac: 94.33% | Train F1 Mic: 97.47%
-	 Val. Loss: 0.231 |  Val. Acc: 0.93% |  Val. F1 Mac: 86.60% |  Val. F1 Mic: 93.19%
+	Train Loss: 0.425 | Train Acc: 98.96% | Train F1 Mac: 97.74% | Train F1 Mic: 98.98%
+	 Val. Loss: 3.171 |  Val. Acc: 93.68% |  Val. F1 Mac: 86.98% |  Val. F1 Mic: 93.53%
+
+Epoch: 14 | Epoch Time: 3m 5s
+Learning Rate: 1.4123762449999993e-06
+	Train Loss: 0.428 | Train Acc: 99.00% | Train F1 Mac: 97.80% | Train F1 Mic: 99.01%
+	 Val. Loss: 3.183 |  Val. Acc: 93.39% |  Val. F1 Mac: 86.91% |  Val. F1 Mic: 93.51%
+
+Epoch: 15 | Epoch Time: 3m 6s
+Learning Rate: 9.886633714999995e-07
+	Train Loss: 0.420 | Train Acc: 99.04% | Train F1 Mac: 97.90% | Train F1 Mic: 99.05%
+	 Val. Loss: 3.184 |  Val. Acc: 93.62% |  Val. F1 Mac: 86.93% |  Val. F1 Mic: 93.51%
+
+last
 
 [CLS] O
 2020 O
@@ -101,7 +103,7 @@ Learning Rate: 2.017680349999999e-06
 ##던 O
 근로자 O
 ##가 O
-추락 E_B
+추락 O
 ##하여 O
 사망 E_B
 ##하 O
@@ -182,7 +184,7 @@ Learning Rate: 2.017680349999999e-06
 블록 O
 사이 O
 ##에 O
-재해자 O
+재해자 E_B
 가 E_I
 끼 E_I
 ##이 E_I
@@ -304,13 +306,13 @@ Learning Rate: 2.017680349999999e-06
 내 O
 금형 E_B
 내 E_I
-명 E_I
+명 E_B
 판 E_I
 교체작업 E_I
 중 O
 잔여 E_B
 유압 E_I
-으로 E_I
+으로 O
 금형 E_B
 이 E_I
 닫혀 E_I
@@ -319,7 +321,7 @@ Learning Rate: 2.017680349999999e-06
 끼 E_I
 이 E_I
 는 E_I
-사고 O
+사고 E_I
 가 O
 발생 O
 하 O
@@ -391,9 +393,9 @@ Learning Rate: 2.017680349999999e-06
 작업 O
 을 O
 위해 O
-컨베이어 E_B
-를 O
-들어 E_I
+컨베이어 O
+를 E_I
+들어 O
 올린 E_I
 뒤 E_I
 하부 E_I
@@ -408,10 +410,10 @@ Learning Rate: 2.017680349999999e-06
 앉 E_I
 ##는 E_I
 바람 E_I
-##에 O
-머리 O
-##를 O
-크 O
+##에 E_I
+머리 E_I
+##를 E_I
+크 E_I
 ##게 E_I
 다쳐 E_I
 결국 O
@@ -466,23 +468,23 @@ Learning Rate: 2.017680349999999e-06
 ##서 O
 이 O
 ##음 O
-철근 E_B
-을 E_I
-설치 E_I
+철근 O
+을 O
+설치 O
 하 O
 ##던 O
 작업자 O
 가 O
-벽체 E_B
-거푸집 E_I
+벽체 O
+거푸집 E_B
 이 E_I
 붕괴 E_I
 ##되 O
-##며 O
-콘크리트 O
-##에 O
+##며 E_I
+콘크리트 E_I
+##에 E_I
 매몰 E_I
-##되 O
+##되 E_I
 ##어 O
 사망 E_B
 [SEP] O
@@ -554,7 +556,7 @@ Learning Rate: 2.017680349999999e-06
 ##을 O
 위해 O
 가정용 O
-LNG E_B
+LNG O
 가스 E_I
 배관 E_I
 에 O
@@ -580,8 +582,8 @@ LNG E_B
 팔 O
 ##에 O
 2 E_B
-##도 O
-화상 O
+##도 E_I
+화상 E_I
 ##을 O
 입고 O
 치료 O
@@ -606,11 +608,11 @@ LNG E_B
 에서 O
 발생 O
 ##한 O
-정전 O
+정전 E_B
 ##기 O
 ##를 O
-점 O
-##화 O
+점 E_I
+##화 E_I
 ##원 O
 ##으로 O
 보 O
@@ -659,7 +661,7 @@ LNG E_B
 의 O
 아파트 O
 외부 O
-도색작업 O
+도색작업 E_B
 을 O
 하 O
 ##던 O
@@ -679,7 +681,7 @@ LNG E_B
 줄 O
 ##에 O
 매달려 O
-도색작업 E_B
+도색작업 O
 을 O
 하 O
 ##던 O
@@ -688,7 +690,7 @@ LNG E_B
 장비 E_B
 에서 E_I
 떨어졌 E_I
-##다 O
+##다 E_I
 . O
 ' O
 [SEP] O
@@ -700,7 +702,7 @@ LNG E_B
 비계 E_B
 작업 E_I
 중 O
-떨어 E_B
+떨어 E_I
 ##짐 E_I
 . O
 [SEP] O
@@ -756,18 +758,18 @@ LNG E_B
 ##던 O
 냉각기 E_B
 가 E_I
-가 O
-동 O
+가 E_I
+동 E_I
 되 O
 ##며 O
 작업자 O
 가 O
 가 O
 동 O
-스크 E_B
-##류 E_I
-##에 E_I
-말려 E_I
+스크 O
+##류 O
+##에 O
+말려 E_B
 ##들 E_I
 ##어가 E_I
 끼 E_I
@@ -802,12 +804,12 @@ LNG E_B
 투입 E_I
 작업 E_I
 중 O
-푸 O
-##셔 O
-##가 O
-투입 O
-된 O
-집 E_B
+푸 E_B
+##셔 E_I
+##가 E_I
+투입 E_I
+된 E_I
+집 E_I
 ##성 E_I
 ##재 E_I
 ##와 E_I
@@ -851,9 +853,9 @@ LNG E_B
 석재 O
 공장 O
 에서 O
-컨베이어 E_B
-벨트 E_I
-하부 O
+컨베이어 O
+벨트 O
+하부 E_B
 청소작업 E_I
 중 O
 근로자 O
@@ -978,12 +980,12 @@ LNG E_B
 한 O
 공사현장 O
 에서 O
-샌드 E_B
+샌드 O
 위치 E_I
 패널 E_I
-작업 E_I
+작업 O
 중 O
-차량형 E_B
+차량형 O
 고소작업 E_I
 대 E_I
 작업 E_I
@@ -1097,7 +1099,7 @@ LNG E_B
 인양 E_I
 작업 E_I
 중 O
-작업자 O
+작업자 E_B
 가 O
 끼여 E_B
 사망 E_I
@@ -1192,9 +1194,9 @@ LNG E_B
 전도 E_I
 ##되 O
 ##어 O
-운전자 O
-가 O
-깔려 E_B
+운전자 E_B
+가 E_I
+깔려 E_I
 사망 E_I
 ##하 O
 ##는 O
@@ -1274,17 +1276,17 @@ LNG E_B
 ##던 O
 재해자 O
 가 O
-굴러 O
-떨어지 O
-##던 O
+굴러 E_B
+떨어지 E_I
+##던 E_I
 상수도 E_I
 ##관 E_I
 ##과 E_I
-함께 O
-지면 O
-##으로 O
-떨어진 E_B
-뒤 O
+함께 E_I
+지면 E_I
+##으로 E_I
+떨어진 E_I
+뒤 E_I
 ##에 O
 같이 O
 떨어진 O
@@ -1383,13 +1385,13 @@ LNG E_B
 보수 O
 를 O
 위해 O
-파레트 E_B
-를 E_I
-지게차 E_I
-포크 E_I
-##에 E_I
-끼 E_I
-##운 E_I
+파레트 O
+를 O
+지게차 O
+포크 O
+##에 O
+끼 O
+##운 O
 후 O
 파레트 O
 위로 O
@@ -1400,11 +1402,11 @@ LNG E_B
 , O
 지게차 O
 운전자 O
-가 E_I
+가 O
 후진 E_B
-을 E_I
-하자 E_I
-중 E_I
+을 O
+하자 O
+중 E_B
 심 E_I
 ##을 E_I
 잃 E_I
@@ -1595,24 +1597,24 @@ A형 O
 올라서 O
 ##서 O
 고압 O
-##세 E_I
-##척 E_I
-##기 E_I
-##로 E_I
+##세 O
+##척 O
+##기 O
+##로 O
 벽체 E_B
 등 E_I
 청소 E_I
 ##하 E_I
 ##려 E_I
 ##다가 O
-몸 O
-##의 O
-중 E_B
+몸 E_B
+##의 E_I
+중 E_I
 심 E_I
 ##을 E_I
 잃 E_I
 ##고 E_I
-추락 E_B
+추락 E_I
 ##하여 O
 사망 E_B
 ##하 O
@@ -1681,7 +1683,7 @@ A형 O
 갑자기 E_I
 1 E_I
 ##층 E_I
-##으로 O
+##으로 E_I
 떨어져 E_I
 1 O
 ##층 O
@@ -1694,9 +1696,9 @@ A형 O
 을 O
 하 O
 ##던 O
-작업자 O
+작업자 E_B
 가 E_I
-깔려 E_B
+깔려 E_I
 사망 E_I
 ##하 O
 ##였 O
@@ -1711,7 +1713,7 @@ A형 O
 ##던 O
 작업자 O
 는 O
-부상 O
+부상 E_B
 ##을 O
 입고 O
 병원 O
@@ -1750,9 +1752,9 @@ E O
 유리 O
 공장 O
 에서 O
-고장 O
-##난 O
-보 O
+고장 E_B
+##난 E_I
+보 E_I
 일러 E_I
 ##가 E_I
 폭발 E_I
@@ -1804,9 +1806,9 @@ V O
 0 O
 리터 O
 의 O
-보 O
+보 E_B
 일러 O
-폭발 O
+폭발 E_I
 ##하 O
 ##였 O
 ##으며 O
@@ -1835,8 +1837,8 @@ V O
 과 E_I
 ##압 E_I
 ##에 E_I
-의한 O
-폭발 O
+의한 E_I
+폭발 E_I
 ##로 O
 확인 O
 되 O
