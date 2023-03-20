@@ -2,3 +2,5 @@ config
 data
 tokenizer
 *.pt
+.ipynb_checkpoints
+.empty
